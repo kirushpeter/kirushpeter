@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Anything worth the time**
 
-- 👨‍💻 All of my projects are available at []
+- 👨‍💻 All of my projects are available at [/../]
 
 - 💬 Ask me about **Embedded C**
 
