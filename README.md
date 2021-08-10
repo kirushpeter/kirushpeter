@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm peter kirumba</h1>
 <h3 align="center">A passionate Mechatronic engineer and Tech enthusiast</h3>
 <h3 align="center">LINUX DISTRO : UBUNTU </h3>
