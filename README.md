@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Mechatronic engineer and Tech enthusiast</h3>
 <h3 align="center">LINUX DISTRO : UBUNTU </h3>
 
-<p align="center"> <img src="http://gph.is/1T3BhaE" alt="kirushpeter" /> </p>
+<p align="center"> <img src="http://gph.is/1T3BhaE"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirushpeter&label=Profile%20views&color=0e75b6&style=flat" alt="kirushpeter" /> </p>
 
