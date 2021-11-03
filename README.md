@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **perfecting my hardware and software skills**
 
-- 🌱 I’m currently learning **Python and C **
+- 🌱 I’m currently learning **python **
 
 - 👯 I’m looking to collaborate on **Hardware and software development**
 
