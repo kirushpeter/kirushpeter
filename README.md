@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **perfecting my hardware and software skills**
 
-- 🌱 I’m currently learning **Python >> Micro-python and how to teach effectively**
+- 🌱 I’m currently learning **Python and C **
 
 - 👯 I’m looking to collaborate on **Hardware and software development**
 
 - 👨‍💻 All of my projects are available at [/.../]
 
-- 💬 Ask me about **C and C++**
+- 💬 Ask me about **C and python**
 
 - 📫 How to reach me **peterkir5693@gmail.com**
 
