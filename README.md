@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **Hardware and software development**
 
-- 👨‍💻 All of my projects are available at [/.../]
-
 - 💬 Ask me about **C and python**
 
 - 📫 How to reach me **peterkir5693@gmail.com**
